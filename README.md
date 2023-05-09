@@ -1,5 +1,5 @@
 # Pictaflow
 
-To request a feature and file an issue, go to https://github.com/pictaflow/pictaflow.github.io
+To request a feature and file an issue, go to [https://github.com/pictaflow/pictaflow.github.io](https://github.com/pictaflow/pictaflow.github.io)
 
-Privacy policy: https://pictaflow.github.io/pictaflow-privacy-policy.html
+Privacy policy: [https://pictaflow.github.io/pictaflow-privacy-policy.html](https://pictaflow.github.io/pictaflow-privacy-policy.html)
